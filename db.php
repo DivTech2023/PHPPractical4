@@ -1,3 +1,3 @@
 <?php
 
-$con = mysqli_connect("localhost", "root", "", "pracass3");
+$con = new mysqli("localhost", "root", "", "pracass3");
